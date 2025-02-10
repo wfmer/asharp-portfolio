@@ -37,18 +37,22 @@ To address these challenges, I proposed a **time zone-based shift bidding syste
 
 ### **Execution Steps:**
 
-✅ Developed a structured **Standard Operating Procedure (SOP) document** to guide agents through the new process. 
-✅ Defined clear **guardrails and policies** to support both employee needs and business objectives. 
-✅ Collaborated with leadership to gain approval and ensure smooth implementation. 
-✅ Communicated changes effectively to agents, providing transparency and addressing concerns proactively.
+	1. Developed a structured 'Standard Operating Procedure (SOP) document' to guide agents through the new process. 
+	2. Defined clear guardrails and policies to support both employee needs and business objectives. 
+	3. Collaborated with leadership to gain approval and ensure smooth implementation. 
+	4. Communicated changes effectively to agents, providing transparency and addressing concerns proactively.
+  
+  
+ 
 
 ## **Results & Impact**
 
-📈 **Operational Efficiency**: Improved shift coverage, particularly in mid-morning and closing hours. 
-😊 **Enhanced Agent Experience**: Reduced instances of extreme shift misalignment, leading to better work-life balance. 
-📊 **Data-Driven Decision Making**: Leadership gained insights into staffing distribution needs, allowing for more informed workforce planning.
+- 📈 **Operational Efficiency**: Improved shift coverage, particularly in mid-morning and closing hours. 
+- 😊 **Enhanced Agent Experience**: Reduced instances of extreme shift misalignment, leading to better work-life balance. 
+- 📊 **Data-Driven Decision Making**: Leadership gained insights into staffing distribution needs, allowing for more informed workforce planning.
 
-- Metrics: We measured the impact of this process improvement by examining SLA compliance in key areas alongside agent reported measurements, caputured in the quartely questionaire.
+
+	- Metrics: We measured the impact of this case study by conducting an analysis of SLA compliance in key areas aginst agent reported measurements, caputured in the quartely questionaire.
 
 ## **Next Steps & Lessons Learned**
 
