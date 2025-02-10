@@ -10,9 +10,9 @@ My special sauce is **Highlighting the human element in data transformation and 
 
 This portfolio contains:
 - 📂 **Project Case Studies** (Markdown files summarizing key projects)
-  - Case Study: Optimizing Shift Bidding for Better Time Zone alignment
+  - [Shift Bid Optimization Case Study](./shift_bid_case_study.md): Optimizing Shift Bidding for Better Time Zone alignment
 - 💻 **Code Exaples** (samples of data analysis/ visulization)
-  - timegpt-example-cleaned: Time-series forecasting method using timeGPT
+  - [Jupyter Notebook: TimeGPT Example](https://github.com/wfmer/asharp-portfolio/blob/main/timegpt-example-cleaned.ipynb): Time-series forecasting
 
 
 
