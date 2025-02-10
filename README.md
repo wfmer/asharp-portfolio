@@ -10,8 +10,9 @@ My special sauce is **Highlighting the human element in data transformation and 
 
 This portfolio contains:
 - 📂 **Project Case Studies** (Markdown files summarizing key projects)
-- 📉 **timegpt-example-cleaned** (sample of python code forecasting time-series data using timeGPT)
-
+  - Case Study: Optimizing Shift Bidding for Better Time Zone alignment
+- 💻 **Code Exaples** (samples of data analysis/ visulization)
+  - timegpt-example-cleaned: Time-series forecasting method using timeGPT
 
 
 
