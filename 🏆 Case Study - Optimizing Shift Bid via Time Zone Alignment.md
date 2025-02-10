@@ -37,7 +37,10 @@ To address these challenges, I proposed a **time zone-based shift bidding syste
 
 ### **Execution Steps:**
 
-✅ Developed a structured **Standard Operating Procedure (SOP) document** to guide agents through the new process. ✅ Defined clear **guardrails and policies** to support both employee needs and business objectives. ✅ Collaborated with leadership to gain approval and ensure smooth implementation. ✅ Communicated changes effectively to agents, providing transparency and addressing concerns proactively.
+✅ Developed a structured **Standard Operating Procedure (SOP) document** to guide agents through the new process. 
+✅ Defined clear **guardrails and policies** to support both employee needs and business objectives. 
+✅ Collaborated with leadership to gain approval and ensure smooth implementation. 
+✅ Communicated changes effectively to agents, providing transparency and addressing concerns proactively.
 
 ## **Results & Impact**
 
@@ -45,10 +48,10 @@ To address these challenges, I proposed a **time zone-based shift bidding syste
 😊 **Enhanced Agent Experience**: Reduced instances of extreme shift misalignment, leading to better work-life balance. 
 📊 **Data-Driven Decision Making**: Leadership gained insights into staffing distribution needs, allowing for more informed workforce planning.
 
+- Metrics: We measured the impact of this process improvement by examining SLA compliance in key areas alongside agent reported measurements, caputured in the quartely questionaire.
+
 ## **Next Steps & Lessons Learned**
 
-- (More detail needed) Were there any challenges faced during implementation?
+- Possible Improvements: Technical limitations with the WFM software made the implementation a bit cumbersome. Finding another WFM tool, or data analysis tool to do the lifting outside the WFM tool used would provide for added agility and reduce the set-up time required for each bid. However, At the end of the day the implemtenation met the buisness requirements.
     
-- (More detail needed) Are there any quantitative metrics (e.g., % improvement in coverage, employee satisfaction survey results)?
-    
-- (More detail needed) What future optimizations could be made based on this new structure?
+- Future optimizations: Moving forward optimizations can be made to align with the teams updated structure, reflecting the updated routing customers encounter when initaiting their outreach. Additionally, building in mechansims that reward performance while retaining business needs may help achieve added 'buy-in' from agents.
