@@ -25,4 +25,4 @@ Outside work 💜, I enjoy spending time supporting my local community by volunt
 When I am not volunteering or spending time with loved ones, I can be found learning from the world around me. From Podcasts, to TedTalks, to getting hands-on with 'the topic of the day' I love learning about people, processes and technology and how I can use those tools to help build a better tomorrow!
 Meaning I don't *just* learn for personal gain, I learn to share that knowledge with others in hopes we can collaborate to make the world around me a better place!
 
-Thus, If you have any questions about any of my past/present or future work, or simply would like to chat about a driving a better tomorrow - [shoot me an email](mailto:andrewdasharp@gmail.com); or connect with me on[linkedin](https://www.linkedin.com/in/asharp27/)- Looking forward to our paths crossing!
+Thus, If you have any questions about any of my past/present or future work, or simply would like to chat about a driving a better tomorrow - [shoot me an email](mailto:andrewdasharp@gmail.com); or connect with me on [linkedin](https://www.linkedin.com/in/asharp27/)- Looking forward to our paths crossing!
