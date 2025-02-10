@@ -1,6 +1,5 @@
-# 💼 ASharps Portfolio
-
-Welcome to my workspace! This repository showcases my work, including case studies and data/code which showcase my technical skills in data manipulation, visualization, and reporting.
+# 💼 Welcome to my workspace! 
+- This repository showcases my work, including case studies and data/code which showcase my technical skills in data manipulation, visualization, and reporting.
 
 ## 👋 About Me
 I am passionate about **leveraging data to help the world make better (more informed) decisions**.
