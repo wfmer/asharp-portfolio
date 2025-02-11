@@ -9,11 +9,11 @@ My special sauce is **Highlighting the human element in data transformation and 
 
 ### This workspace contains:
 - 📂 **Case Studies** (Markdown files summarizing key projects)
-  - [Shift Bid Optimization Case Study](https://github.com/wfmer/asharp-portfolio/blob/main/%F0%9F%8F%86%20Case%20Study%20-%20Optimizing%20Shift%20Bid%20via%20Time%20Zone%20Alignment.md): Optimizing Shift Bidding for Better Time Zone alignment
+  - [Shift Bid Optimization Case Study](https://github.com/wfmer/asharp-portfolio/blob/main/%F0%9F%8F%86%20Case%20Study%20-%20Optimizing%20Shift%20Bid%20via%20Time%20Zone%20Alignment.md): Time Zone based shift bid optimization
 - 💻 **Python Examples** (Jupyter notebooks of data analysis/ visulization)
   - [Jupyter Notebook: TimeGPT Example](https://github.com/wfmer/asharp-portfolio/blob/main/timegpt-example-cleaned.ipynb): Time-series forecasting
 - 💱 **Excel Examples** (excel/sheets data analysis/ visulization)
-  - [Attrition Calculator](https://docs.google.com/spreadsheets/d/10_SRpzo393P9eOE867OTP3lNXETN7mCLC5PZMD3MSPs/edit?gid=668422861#gid=668422861): Visual impact to SLA for attrition X shift
+  - [Attrition Calculator](https://docs.google.com/spreadsheets/d/10_SRpzo393P9eOE867OTP3lNXETN7mCLC5PZMD3MSPs/edit?gid=668422861#gid=668422861): Visual impact to SLA for attrition by shift
 
 
 
